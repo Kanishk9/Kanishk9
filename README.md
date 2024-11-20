@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kanishk Bisht</h1>
 <h3 align="center">Front-End Developer Specializing in Interactive Web and Cross-Platform Mobile Apps</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **iOS Development**
 
 - 💬 Ask me about **React JS, React Native**
 
